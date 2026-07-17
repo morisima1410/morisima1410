@@ -46,7 +46,7 @@ I'm a passionate developer with an interest in building modern web and Android a
 ## 📫 Connect With Me
 
 - 📧 Email: morisima1410@gmail.com
-- 💼 LinkedIn: 
+- 💼 LinkedIn:https://www.linkedin.com/in/sima-mori-a0102a349
 - 💻 GitHub:https://github.com/morisima1410
 
 ⭐ Thanks for visiting my profile!

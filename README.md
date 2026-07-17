@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Sima Mori
 
-<!--
-**morisima1410/morisima1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Android Developer Intern | Web Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 Diploma in Computer Engineering Graduate  
+💼 Android Developer Intern at BytesBizz Technology LLP (Online, Rajkot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a passionate developer with an interest in building modern web and Android applications. I enjoy learning new technologies and creating responsive, user-friendly, and scalable applications. I continuously improve my skills by working on real-world projects.
+
+---
+
+## 💻 Tech Stack
+
+- C | C++ | Java | Python | PHP
+- HTML5 | CSS3 | JavaScript
+- React.js | Node.js | Express.js
+- Firebase | SQL | MongoDB
+- Android Studio | Git | GitHub
+
+---
+
+## 🚀 Featured Projects
+
+- 📱 College Management Application (Android)
+- 🤖 Smart Attendance System
+- 💬 AI Chat Application
+- 🏥 Hospital Management System
+- 📚 Bookstore Management System
+- 🌐 Personal Portfolio Website
+
+---
+
+## 📜 Certifications
+
+- Android Developer Internship – BytesBizz Technology LLP
+- Python Developer Internship – BytesBizz Technology LLP
+- Full Stack Development + GenAI
+- E-Commerce Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: morisima1410@gmail.com
+- 💼 LinkedIn: 
+- 💻 GitHub: https://github.com/yourusername
+
+⭐ Thanks for visiting my profile!

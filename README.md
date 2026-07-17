@@ -47,6 +47,6 @@ I'm a passionate developer with an interest in building modern web and Android a
 
 - 📧 Email: morisima1410@gmail.com
 - 💼 LinkedIn: 
-- 💻 GitHub: https://github.com/yourusername
+- 💻 GitHub:https://github.com/morisima1410
 
 ⭐ Thanks for visiting my profile!
